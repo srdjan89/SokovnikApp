@@ -1,0 +1,41 @@
+
+U sokovnik je dodata Jabuka{sorta=Ajdared, tezina=0.8154395136887896, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Kolačara, tezina=2.1648662187881484, nijeTrula=false}
+
+U sokovnik je dodata Jabuka{sorta=Kolačara, tezina=2.483561494031758, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Zlatni Delišes, tezina=0.9321687736378815, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Budimka, tezina=2.430441825994505, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Zlatni Delišes, tezina=2.9505174782635857, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Greni Smit, tezina=1.5137441725972118, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Kolačara, tezina=1.3115664434556857, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Budimka, tezina=1.8602087494907653, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Greni Smit, tezina=1.1625851868138226, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Zlatni Delišes, tezina=2.5734480007157154, nijeTrula=false}
+
+U sokovnik je dodata Jabuka{sorta=Zlatni Delišes, tezina=0.8661958765767003, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Ajdared, tezina=1.1065262367423463, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Zlatni Delišes, tezina=2.773345227676206, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Ajdared, tezina=1.715344281122231, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Zlatni Delišes, tezina=2.425917311098903, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Kolačara, tezina=0.17867000597732585, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Greni Smit, tezina=1.9997694664357488, nijeTrula=true}
+
+U sokovnik je dodata Jabuka{sorta=Kolačara, tezina=0.1978154397829064, nijeTrula=false}
+
+Iscedjeno je 9.810493030867088 soka
+This is the content to write into file
